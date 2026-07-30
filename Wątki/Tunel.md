@@ -1,5 +1,4 @@
 Motyw tunelu, dążenie do światła
 Magnetyzm światła, jak ćma
 
-Test
-
+![[Drawing 50.png]]
