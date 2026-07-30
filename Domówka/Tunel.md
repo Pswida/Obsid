@@ -1,2 +1,3 @@
 Motyw tunelu, dążenie do światła
-![[Drawing 56.png]]
+
+![[Drawing 56.png|427]]
