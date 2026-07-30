@@ -7,6 +7,5 @@ Na koncu majacza ksztalty
 ![[Untitled 41.png|413]]
 
 Ryby
-![[Tunel 2026-07-30 20.27.17.excalidraw]]
 
 
