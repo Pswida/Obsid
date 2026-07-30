@@ -10,7 +10,7 @@ Ryby
 
 ![[Drawing 51.png]]
 
- ![InkDrawing](<Draft/Draft/Ink/Drawing/2026.7.30 - 22.26pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=500&aspectRatio=1.778&viewBoxX=0&viewBoxY=0&viewBoxW=2000&viewBoxH=1125)
+ ![InkDrawing](<Draft/Draft/Ink/Drawing/2026.7.30 - 22.26pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=530.032958984375&aspectRatio=1.550&viewBoxX=274.558&viewBoxY=67.757&viewBoxW=1152.668&viewBoxH=743.652)
 
 
 
