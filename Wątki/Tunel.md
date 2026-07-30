@@ -8,4 +8,4 @@ Na koncu majacza ksztalty
 
 Ryby
 
-
+![[Drawing 51.png]]
