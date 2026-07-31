@@ -1,7 +1,7 @@
 Motyw tunelu, dążenie do światła
 Magnetyzm światła, jak ćma
 
-![[Drawing 50.png|266]]![[Drawing 50.png|265]]
+![[Drawing 50.png|296]]![[Drawing 50.png|294]]
 
 Na koncu majacza ksztalty
 
@@ -9,7 +9,7 @@ Na koncu majacza ksztalty
 
 Ryby
 
-![[Drawing 51.png]]
+![[Drawing 51.png|424]]
 
 
 
