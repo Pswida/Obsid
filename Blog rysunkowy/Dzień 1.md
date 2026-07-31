@@ -5,3 +5,5 @@
 
  ![InkDrawing](<Draft/Ink/Drawing/2026.7.31 - 16.55pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=403.3846435546875&aspectRatio=1.587&viewBoxX=-177.604&viewBoxY=26.418&viewBoxW=1930.172&viewBoxH=1216.497)
 
+
+ ![InkDrawing](<Draft/Ink/Drawing/2026.7.31 - 21.44pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=500&aspectRatio=1.778&viewBoxX=0&viewBoxY=0&viewBoxW=2000&viewBoxH=1125)
