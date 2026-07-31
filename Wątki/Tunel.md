@@ -1,7 +1,7 @@
 Motyw tunelu, dążenie do światła
 Magnetyzm światła, jak ćma
 
-![[Drawing 50.png|296]]![[Drawing 50.png|294]]
+![[Drawing 50.png|296]]
 
 Na koncu majacza ksztalty
 
