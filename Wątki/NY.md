@@ -1,0 +1,1 @@
+Dedzcz, standardy jazzowe, przypadki tasują ludzi ui pokażę kim właściwie są 
