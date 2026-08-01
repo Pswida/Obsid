@@ -1,3 +1,3 @@
-Ukryta treść
+Ukryta treść :-)
 
 #ukryty
