@@ -1,5 +1,0 @@
-
-#ukryty
-asdfasdfasdf
-asdfasdfasdf
-asdfasdfsadf
