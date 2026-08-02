@@ -1,6 +1,6 @@
 ## Z chaosu w samopoznanie
 
-przypadki tasują ludzi póki pokażę kim właściwie są 
+Losowe zdarzenua, przypadki tasują ludzi póki pokażę kim właściwie są 
 Coś jak potrzęśnięcie pudełkiem z kostkami które układają się 
 
 
@@ -9,3 +9,6 @@ Coś jak potrzęśnięcie pudełkiem z kostkami które układają się
 
  ![InkDrawing](<Draft/Ink/Drawing/2026.8.2 - 13.39pm (2).svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=264.8681640625&aspectRatio=0.845&viewBoxX=131.518&viewBoxY=-140.545&viewBoxW=1425.439&viewBoxH=1687.353)
 Uporządkować w strukturę, a może też wewnętrznie ukształtować, przez to i razem z tym.
+
+Finalnie utworzona struktura może sprawiać wrażenie że nic nie jest przypadkowe.
+
