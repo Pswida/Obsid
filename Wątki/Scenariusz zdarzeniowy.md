@@ -11,3 +11,6 @@ Coś jak potrzęśnięcie pudełkiem z kostkami które układają się
 Uporządkować w strukturę, a może też wewnętrznie ukształtować, przez to i razem z tym.
 
 Finalnie utworzona struktura może sprawiać wrażenie że nic nie jest przypadkowe.
+
+
+ ![InkDrawing](<Ink/Drawing/2026.8.2 - 19.38pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=376&aspectRatio=1.236&viewBoxX=676.027&viewBoxY=212.456&viewBoxW=947.775&viewBoxH=767.035)
