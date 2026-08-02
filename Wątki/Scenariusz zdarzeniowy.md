@@ -11,4 +11,3 @@ Coś jak potrzęśnięcie pudełkiem z kostkami które układają się
 Uporządkować w strukturę, a może też wewnętrznie ukształtować, przez to i razem z tym.
 
 Finalnie utworzona struktura może sprawiać wrażenie że nic nie jest przypadkowe.
-
