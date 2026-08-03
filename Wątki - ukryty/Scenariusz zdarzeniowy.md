@@ -13,6 +13,5 @@ Uporządkować w strukturę, a może też wewnętrznie ukształtować, przez to 
 Finalnie utworzona struktura może sprawiać wrażenie że nic nie jest przypadkowe.
 
 
- ![InkDrawing](<Ink/Drawing/2026.8.2 - 19.38pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=376&aspectRatio=1.236&viewBoxX=676.027&viewBoxY=212.456&viewBoxW=947.775&viewBoxH=767.035)
 
  ![InkDrawing](<Draft/Ink/Drawing/2026.8.2 - 19.52pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=329.923583984375&aspectRatio=1.344&viewBoxX=378.452&viewBoxY=645.366&viewBoxW=1515.068&viewBoxH=1126.945)
