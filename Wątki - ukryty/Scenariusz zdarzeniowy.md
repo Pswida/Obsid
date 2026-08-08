@@ -18,7 +18,7 @@ Finalnie utworzona struktura może sprawiać wrażenie że nic nie jest przypadk
 
  ![InkDrawing](<Draft/Ink/Drawing/2026.8.4 - 20.16pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=331.93463134765625&aspectRatio=1.399&viewBoxX=149.26&viewBoxY=891.191&viewBoxW=678.974&viewBoxH=485.284)
 ustawienie potrząsanych kostek w sensie przestrzennego upakowania nie wygląda na przypadkowe ale już liczby są jak najbardziej przypadkowe
-Ale przed potrząsaniem też były przypadkowe
+Ale przed potrząsaniem też były przypadkowe 
 
 
 
