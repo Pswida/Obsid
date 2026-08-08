@@ -5,3 +5,5 @@
 chwyt nożny
 
 ![[Drawing 51.png|338]]
+
+ ![InkDrawing](<Draft/Ink/Drawing/2026.8.8 - 22.37pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=386.5867919921875&aspectRatio=1.089&viewBoxX=581.974&viewBoxY=256.425&viewBoxW=530.228&viewBoxH=486.787)
